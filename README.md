@@ -1,4 +1,7 @@
 # pysfreport
+
+Salesforce office connector does not support higher office version, so I have to make one to help our OA.
+
 Get Salesforce report data both details and printable view data
 
 Based on simple-salesforce and some scripts I found in stack overflow.
